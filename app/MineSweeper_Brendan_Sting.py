@@ -1,4 +1,4 @@
-# chapter5-9project_Sting_5-4-18.py
+# MineSweeper_Brendan_Sting.py
 # This program will let the user play a game called Minesweeper, where you have to avoid mines to win.
 # Made(and edited)/Created by Brendan Sting on 4-25-18.
 # Original script/skeleton contributed by mohd-akram on GitHub.
