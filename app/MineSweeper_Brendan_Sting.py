@@ -3,7 +3,7 @@
 # This program will let the user play a game called Minesweeper, where you have to avoid mines to win.
 # Edited and Compiled by Brendan Sting on 4-25-18.
 # Original script/skeleton contributed by mohd-akram on GitHub.
-# ASCII art contributed by ASCII Art Archive
+# ASCII art contributed by ASCII Art Archive (https://www.asciiart.eu/weapons/explosives)
 #=========================================================================================================#
 
 #import pygame, sys
