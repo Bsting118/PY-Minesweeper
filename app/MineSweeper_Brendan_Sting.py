@@ -234,7 +234,7 @@ def playGame():
             # Elif statement that determines if the player hits a mine, it shows a "Game Over".
             elif grid[rowno][colno] == '*':
                 print('Game Over\n')
-                print('''
+                print(r'''
                          \|/                          
                        `--+--'                        
                          /|\                          
@@ -258,7 +258,7 @@ def playGame():
                 `._###############_,'                 
                    `--..#####..--'      ''')
                 time.sleep(1)
-                print('''
+                print(r'''
                          \|/                          
                        `--+--'                        
                          /|\                          
@@ -281,7 +281,7 @@ def playGame():
                 `._###############_,'                 
                    `--..#####..--'      ''')
                 time.sleep(1)
-                print('''
+                print(r'''
                          \|/                          
                        `--+--'                        
                          /|\                          
@@ -303,7 +303,7 @@ def playGame():
                 `._###############_,'                 
                    `--..#####..--'      ''')
                 time.sleep(1)
-                print('''
+                print(r'''
                          \|/                          
                        `--+--'                                                  
                       ,--'#`--.                       
@@ -323,7 +323,7 @@ def playGame():
                 `._###############_,'                 
                    `--..#####..--'     ''')
                 time.sleep(1)
-                print('''
+                print(r'''
                              ___________________
                          ____// (  (    )   )  \\___
                          //( (  (  )   _    ))  )   )\\
